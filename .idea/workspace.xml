@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48c1ccf1-3aba-4ec9-80d0-f2f98283b10e" name="Changes" comment="functions&amp;classes">
-      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="48c1ccf1-3aba-4ec9-80d0-f2f98283b10e" name="Changes" comment="loops">
+      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671077084993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="loops">
+      <created>1671572209855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671572209855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="functions&amp;classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions&amp;classes" />
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
   </component>
 </project>
